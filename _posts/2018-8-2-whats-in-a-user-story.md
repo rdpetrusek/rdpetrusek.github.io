@@ -11,6 +11,10 @@ A user story will likely go through many iterations.
 
 ## User Story In The Product Backlog
 
+### **How do I write a user story?**
+
+There are different styles of writing user stories. One of the most common is the [*As a _ I want _ so that _*](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template) template. This allows the reader to understand who wants the value, what the change is, and what value it provides.
+
 ### **Who can put a story in the product backlog?**
 
 Some teams allow anyone to put stories in the product backlog, but this can create a product backlog filled with duplicate stories. Some teams may only allow certain individuals to put stories in the backlog to avoid this issue.
