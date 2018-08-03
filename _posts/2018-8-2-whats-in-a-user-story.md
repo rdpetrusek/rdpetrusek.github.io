@@ -78,9 +78,11 @@ I might have a pen in the car that's easy to grab, so that doesn't change my est
 
 ### **What happens if the highest priority user story in the product backlog can't be completed within one sprint?**
 
-If this occurs, it's important to break down the user story into smaller user stories that each provide value. The original user story may then end up being an **epic** with the new smaller user stories underneath.
+If this occurs, it's important to break down the user story into smaller user stories that each provide value. 
 
 <img src="https://raw.githubusercontent.com/rdpetrusek/rdpetrusek.github.io/master/images/smallergoals.png" width="250px"/>
+
+A user story must be able to be completed within one sprint. The process of breaking down user stories might also involve [**epics** and **themes**](https://www.mountaingoatsoftware.com/blog/stories-epics-and-themes) 
 
 ### **How do we estimate a user story?**
 
