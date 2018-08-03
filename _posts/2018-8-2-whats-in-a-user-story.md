@@ -17,11 +17,13 @@ There are different styles of writing user stories. One of the most common is th
 
 ### **Who can put a story in the product backlog?**
 
-Some teams allow anyone to put stories in the product backlog, but this can create a product backlog filled with duplicate stories. Some teams may only allow certain individuals to put stories in the backlog to avoid this issue.
+Some product owners allow anyone to put stories in the product backlog, but this can create a product backlog filled with duplicate stories. Some product owners may only allow certain individuals to put stories in the backlog to avoid this issue.
 
 *It's a good practice to first search the backlog and make sure the story you're putting in the backlog doesn't already exist.*
 
 <img src="https://github.com/rdpetrusek/rdpetrusek.github.io/blob/master/images/spidermans.jpg?raw=true" width="400px"/>
+
+The product owner is responsible for the [product backlog](https://www.scrum.org/resources/what-is-a-product-backlog), so work with the product owner and find out what they prefer.
 
 ### **How much information does a user story need to go into the product backlog?**
  
