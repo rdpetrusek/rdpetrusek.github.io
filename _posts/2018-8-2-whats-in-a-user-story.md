@@ -17,6 +17,8 @@ Some teams allow anyone to put stories in the product backlog, but this can crea
 
 *It's a good practice to first search the backlog and make sure the story you're putting in the backlog doesn't already exist.*
 
+<img src="https://github.com/rdpetrusek/rdpetrusek.github.io/blob/master/images/spidermans.jpg?raw=true" width="400px"/>
+
 ### **How much information does a user story need to go into the product backlog?**
  
 Just enough information to remember to have a conversation.
