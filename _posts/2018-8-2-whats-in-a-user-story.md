@@ -1,3 +1,8 @@
+---
+layout: post
+title: What's in a user story
+---
+
 # What's in a user story?
 
 A user story will likely go through many iterations.
