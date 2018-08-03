@@ -86,13 +86,15 @@ Every story that is brought in to the sprint should be estimated during sprint p
 
 ### **What happens if the acceptance criteria changes in a user story that is in the sprint backlog?**
 
-The acceptance criteria *shouldn't* change for a user story in the sprint backlog. If this happens, the estimate may no longer be valid and the sprint could be endangered. 
+The acceptance criteria *shouldn't* change for a user story in the sprint backlog. 
+
+<img src="https://raw.githubusercontent.com/rdpetrusek/rdpetrusek.github.io/master/images/bad-idea.gif">
+
+If this happens, the estimate may no longer be valid and the sprint could be endangered. 
 
 If new value is identified that should exist in addition to the user story in the sprint backlog, then a new story should be created and put into the product backlog.
 
 If the user story doesn't provide enough value, or any value at all, then it should be removed from the sprint. 
-
-<img src="https://raw.githubusercontent.com/rdpetrusek/rdpetrusek.github.io/master/images/bad-idea.gif">
 
 If the product owner creates a new user story in the product backlog, the team may decide to pull it into the sprint.
 
