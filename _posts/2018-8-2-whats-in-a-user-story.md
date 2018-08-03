@@ -32,7 +32,7 @@ Just enough information to remember to have a conversation.
 
 ### **What is backlog grooming?**
 
-A timeboxed meeting where user stories in the product backlog are analyzed to try and get acceptance criteria, additional information necessary to complete the ticket, and possibly a rough estimate. 
+[A timeboxed meeting where user stories in the product backlog are analyzed to try and get acceptance criteria, additional information necessary to complete the user story and meet the definition of done, and possibly a rough estimate.](https://www.agilealliance.org/glossary/backlog-grooming/)
 
 It's possible to estimate a story without acceptance criteria during backlog grooming. The estimate is more likely to be inaccurate, but it does give a rough idea of what to expect in terms of effort.
 
