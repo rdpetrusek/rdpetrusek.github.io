@@ -50,15 +50,23 @@ The product owner and some or all of the development team
 
 ### **What criteria does a user story need to meet before it can be brought in to a sprint?**
 
-A user story should have **acceptance criteria** and an **estimate** of effort. Without acceptance criteria, a user story will more than likely not be properly estimated. Writing out acceptance criteria during sprint planning gives all members of the team the opportunity to understand the goal of the user story and hopefully provide better estimates.
+A user story should have **acceptance criteria** and an **estimate** of effort. 
+
+Without acceptance criteria, a user story will more than likely not be properly estimated. Finalizing acceptance criteria during sprint planning gives all members of the team the opportunity to understand the goal of the user story and hopefully provide better estimates.
 
 In addition, a user story should be able to be completed within one sprint. 
 
 ### **What do you mean by acceptance criteria?**
 
-Acceptance Criteria are conditions that must be met for a story to be accepted by the consumer of that work.
+Acceptance criteria are conditions that must be met for a story to be accepted by the consumer of that work. Acceptance criteria defines **what** not **how**.
 
-### **Why cant a user story be estimated accurately without acceptance criteria?**
+**What**: The user should be able to search for images
+
+**How**: The user should enter the name of the image into a textbox, then click on a button that says "Search". After the button is clicked the images should appear in alphabetical order by image name.
+
+<img src="https://github.com/rdpetrusek/rdpetrusek.github.io/blob/master/images/many-requirements.png?raw=true" />
+
+### **Why can't a user story be estimated accurately without acceptance criteria?**
 
 Let's say I have a user story that reads "Drive to work". I might think, "that will take between 30 and 90 minutes, depending on traffic" and based on other user stories that works out to be 5 points of effort. 
 
