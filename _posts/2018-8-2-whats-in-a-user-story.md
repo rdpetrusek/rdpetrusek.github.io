@@ -56,7 +56,7 @@ In addition, a user story should be able to be completed within one sprint.
 
 Acceptance Criteria are conditions that must be met for a story to be accepted by the consumer of that work.
 
-### **Why cant a user story be estimated without acceptance criteria?**
+### **Why cant a user story be estimated accurately without acceptance criteria?**
 
 Let's say I have a user story that reads "Drive to work". I might think, "that will take between 30 and 90 minutes, depending on traffic" and based on other user stories that works out to be 5 points of effort. 
 
