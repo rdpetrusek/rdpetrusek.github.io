@@ -48,7 +48,7 @@ The product owner and some or all of the development team
 
 [Sprint planning](https://www.scrum.org/resources/what-is-sprint-planning) or kickoff is the scrum ceremony where the scrum team decides what user stories to bring in to the sprint backlog to work on in the upcoming sprint.
 
-### **What criteria does a user story need to meet before it can be brought in to a sprint?**
+### **What does a user story need to have before it can be brought into a sprint?**
 
 A user story should have **acceptance criteria** and an **estimate** of effort. 
 
